@@ -1,0 +1,46 @@
+
+.header{
+
+margin:  50px;
+padding: 20px;
+box-shadow: 3px 3px 10 px grey;
+display: flex;
+justify-content: center;
+}
+
+body{
+font-size: 15px;
+font-family: 'Poppins', sans-serif;
+margin: 30 px;
+}
+.caja{
+border: 1px solid blue;
+margin: 10px;
+padding: 24px;
+margin-left: 50px;
+height: 50;
+width: 20%;
+box-shadow: 3px 3px 20 px grey;
+border-radius: 0px;
+}
+
+.logo{
+display: flex;
+justify-content: flex-end;
+}
+
+.caja2{
+border: 1px solid red;
+margin: 0px;
+padding: 24px;
+margin-left: 1000px;
+height: 5px;
+box-shadow: 3px 3px 20px grey;
+border-radius: 0px;
+height: 100%;
+
+}
+.logo2{
+display: flex;
+justify-content: flex-end;
+}
